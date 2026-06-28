@@ -1,0 +1,16 @@
+# Nmap Scan Results
+# Target: 127.0.0.1
+# Tool: Nmap 7.98
+# Date: 28 June 2026
+
+PORT    STATE  SERVICE  VERSION
+80/tcp  open   http     Apache httpd 2.4.66 ((Debian))
+
+OS Details: Linux 5.0 - 6.2
+Device type: general purpose
+Running: Linux 5.X|6.X
+
+SECURITY ANALYSIS:
+Port 80 - HTTP Apache 2.4.66
+Risk: Medium
+Fix: Use HTTPS instead of HTTP
