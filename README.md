@@ -8,7 +8,7 @@
 - Task 8 - Wireshark Traffic Capture
 
 ## Student Name
-Magisha19
+Magisha
 
 ## Track
 Cyber Security#
